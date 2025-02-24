@@ -1,0 +1,58 @@
+## PY (Paraguay)
+### Origin Requirements
+- RUC # Mandatory in cnne box
+- ORIGINAL MAWB #2 (Digital)
+- ORIGINAL HAWB #2 (Digital)
+- CONSOLIDATED MANIFESTO (Digital) including all HAWBS
+
+### AVI Requirements
+- Certificate of Rabies Vaccine
+- CITES
+
+### PER Requirements
+- Carnet, fitosanitarios original
+
+### HUM Requirements
+- Death certificate
+- Embalming Certificate (If applicable)
+- Transfer permit from the country of origin
+
+### DG Requirements
+- Original DGD, 2 copies
+
+### International Domestic Transit
+- N/A
+
+## MX (Mexico)
+### Origin Requirements
+- ORIGINAL MAWB #2 (Digital)
+- ORIGINAL HAWB #2 (Digital)
+- CONSOLIDATED MANIFESTO (Digital) including all HAWBS
+
+### AVI Requirements
+- Certificate of Rabies Vaccine
+- CITES
+
+### PER Requirements
+- ORIGINAL PHYTOSANITARY (Customer Responsibility)
+
+### HUM Requirements
+- Death certificate
+- Embalming Certificate (If applicable)
+- Transfer permit from the country of origin
+
+### DG Requirements
+- Original DGD
+- 2 copies if the origin is MEX
+- 1 Copy if it is TTO or MEX destination
+
+### International Transit/Transshipment
+- ORIGINAL MAWB #2
+- ORIGINAL HAWB #2
+- CONSOLIDATED MANIFESTO including all HAWBS
+
+### International Domestic Transit
+- COMMERCIAL INVOICE
+- ORIGINAL MAWB #2 and 4
+- ORIGINAL HAWB #2 and 4
+- CONSOLIDATED MANIFESTO including all HAWBS

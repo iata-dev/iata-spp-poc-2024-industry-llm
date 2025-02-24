@@ -1,0 +1,191 @@
+{
+  "cargo_requirements": {
+    "international_regulations": [
+      {
+        "organization": "International Air Transport Association (IATA)",
+        "regulations": [
+          {
+            "name": "Dangerous Goods Regulations (DGR)",
+            "details": "Provides guidelines for the safe transport of hazardous materials by air.",
+            "source": "https://www.iata.org/en/publications/dgr/"
+          },
+          {
+            "name": "Live Animals Regulations (LAR)",
+            "details": "Standards for the safe and humane transport of live animals.",
+            "source": "https://www.iata.org/en/publications/lar/"
+          },
+          {
+            "name": "Perishable Cargo Regulations (PCR)",
+            "details": "Guidelines for handling and transporting perishable goods.",
+            "source": "https://www.iata.org/en/publications/pcr/"
+          }
+        ]
+      },
+      {
+        "organization": "International Civil Aviation Organization (ICAO)",
+        "regulations": [
+          {
+            "name": "Technical Instructions for the Safe Transport of Dangerous Goods by Air",
+            "details": "Comprehensive instructions on transporting dangerous goods safely.",
+            "source": "https://www.icao.int/safety/DangerousGoods/Pages/technical-instructions.aspx"
+          }
+        ]
+      }
+    ],
+    "regions": [
+      {
+        "region": "European Union",
+        "embargoed_items": [
+          {
+            "item": "Live birds and related products",
+            "details": "Importation and transit of live birds, and products thereof, from third countries into and through the EU are restricted.",
+            "source": "https://www.cargolux.com/your-shipment-s-journey/embargoed-goods"
+          }
+        ]
+      },
+      {
+        "region": "Italy",
+        "embargoed_items": [
+          {
+            "item": "Radioactive materials",
+            "details": "Transport of radioactive materials to, from, and through Italy is prohibited.",
+            "source": "https://www.cargolux.com/your-shipment-s-journey/embargoed-goods"
+          }
+        ]
+      },
+      {
+        "region": "Ireland",
+        "embargoed_items": [
+          {
+            "item": "Dangerous goods in Classes 1, 6, and 7",
+            "details": "Transport of explosives (Class 1), toxic and infectious substances (Class 6), and radioactive materials (Class 7) is restricted.",
+            "source": "https://www.cargolux.com/your-shipment-s-journey/embargoed-goods"
+          }
+        ]
+      },
+      {
+        "region": "All Destinations",
+        "embargoed_items": [
+          {
+            "item": "Shark fins, whale or dolphin meat, fissile material, waste and scrap materials",
+            "details": "Transport of shark fins for human consumption, whale or dolphin meat, fissile material, and any type of waste and scrap material is prohibited.",
+            "source": "https://www.cargolux.com/your-shipment-s-journey/embargoed-goods"
+          }
+        ]
+      }
+    ],
+    "countries": [
+      {
+        "country": "United States",
+        "regulations": [
+          {
+            "agency": "Transportation Security Administration (TSA)",
+            "details": "Mandates security measures for all cargo transported on passenger and all-cargo aircraft.",
+            "source": "https://www.tsa.gov/for-industry/cargo-programs"
+          },
+          {
+            "agency": "Federal Aviation Administration (FAA)",
+            "details": "Regulates the transport of hazardous materials and enforces safety standards.",
+            "source": "https://www.faa.gov/hazmat"
+          }
+        ],
+        "embargoed_countries": [
+          {
+            "country": "Cuba, Iran, North Korea, Syria",
+            "details": "The U.S. Department of Commerce's Bureau of Industry and Security (BIS) enforces sanctions against these countries, restricting exports and reexports.",
+            "source": "https://www.bis.doc.gov/index.php/policy-guidance/country-guidance/sanctioned-destinations"
+          }
+        ]
+      },
+      {
+        "country": "Canada",
+        "regulations": [
+          {
+            "agency": "Transport Canada",
+            "details": "Implements the Air Cargo Security Program to ensure secure transportation of goods.",
+            "source": "https://tc.canada.ca/en/aviation/security/air-cargo-security"
+          }
+        ]
+      },
+      {
+        "country": "Australia",
+        "regulations": [
+          {
+            "agency": "Civil Aviation Safety Authority (CASA)",
+            "details": "Sets standards for the safe transport of goods by air, including dangerous goods regulations.",
+            "source": "https://www.casa.gov.au/dangerous-goods"
+          }
+        ]
+      },
+      {
+        "country": "United Kingdom",
+        "regulations": [
+          {
+            "agency": "Civil Aviation Authority (CAA)",
+            "details": "Oversees air cargo security and the transport of dangerous goods.",
+            "source": "https://www.caa.co.uk/Commercial-industry/Security/Aviation-security/Cargo-and-mail-security/"
+          }
+        ]
+      },
+      {
+        "country": "European Union",
+        "regulations": [
+          {
+            "agency": "European Union Aviation Safety Agency (EASA)",
+            "details": "Provides regulations for air cargo operations and the transport of dangerous goods within EU member states.",
+            "source": "https://www.easa.europa.eu/domains/dangerous-goods"
+          }
+        ],
+        "embargoed_countries": [
+          {
+            "country": "Belarus, Libya, Zimbabwe",
+            "details": "The European Union maintains a list of embargoed countries with specific trade restrictions.",
+            "source": "https://www.zoll.de/SharedDocs/Boxen/EN/Hintergrund/0016_list_of_embargoed_countries.html"
+          }
+        ]
+      }
+    ],
+    "airlines": [
+      {
+        "airline": "Nippon Cargo Airlines",
+        "embargoed_countries": [
+          "Albania", "Andorra", "Armenia", "Austria", "Azerbaijan", "Belarus", "Belgium", "Bosnia and Herzegovina", "Bulgaria", "Croatia", "Cyprus", "Czech Republic", "Denmark", "Estonia", "Finland", "France", "Georgia", "Germany", "Greece", "Holy See", "Hungary", "Iceland", "Ireland", "Italy", "Kazakhstan", "Kosovo", "Kyrgyzstan", "Latvia", "Liechtenstein", "Lithuania", "Luxembourg", "Malta", "Moldova", "Monaco", "Montenegro", "Netherlands", "North Macedonia", "Norway", "Poland", "Portugal", "Romania", "Russia", "San Marino", "Serbia", "Slovakia", "Slovenia", "Spain", "Sweden", "Switzerland", "Tajikistan", "Turkey", "Turkmenistan", "Ukraine", "Uzbekistan"
+        ],
+        "details": "Temporary embargo on all shipments from these countries to and via the United States due to new security requirements.",
+        "source": "https://www.nca.aero/e/news/trans/documents/20240829_news.pdf"
+      },
+      {
+        "airline": "Cargolux",
+        "embargoed_items": [
+          {
+            "item": "Dual-use goods, arms, ammunition, and military equipment",
+            "details": "Embargoes on these items to certain countries as specified in their Conditions of Carriage.",
+            "source": "https://www.cargolux.com/your-shipment-s-journey/embargoed-goods"
+          }
+        ]
+      }
+    ],
+    "airline_specific_embargoes": [
+      {
+        "airline": "ANA Cargo",
+        "embargoed_items": [
+          {
+            "item": "Dangerous goods (various classes), live animals, human remains",
+            "details": "Embargoes on specific dangerous goods classes and live animals on certain routes.",
+            "source": "https://www.anacargo.jp/en/int/regulations/embargo.html"
+          }
+        ]
+      },
+      {
+        "airline": "Nippon Cargo Airlines",
+        "embargoed_items": [
+          {
+            "item": "Explosives, weapons, radioactive materials, live animals",
+            "details": "Embargoes on specific items across all lanes, with certain exceptions.",
+            "source": "https://www.nca.aero/e/service/important/"
+          }
+        ]
+      }
+    ]
+  }
+}

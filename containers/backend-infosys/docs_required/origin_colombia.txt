@@ -1,0 +1,43 @@
+## CO (Colombia)
+### Origin Requirements
+- RUT/NIT
+- ORIGINAL MAWB #2 (Digital)
+- ORIGINAL HAWB #2 (Digital)
+- CONSOLIDATED MANIFESTO (Digital) including all HAWBS
+- Note: LA AWB digitales solo se usan con DSV el resto de clientes usa guias fisicas
+
+### AVI Requirements
+- SHIPPER (Physical)
+- HEALTH DOCUMENTS (Physical)
+- PERMITS FROM THE AUTHORITIES OF ORIGIN AND DESTINATION
+- CITES (Digital)
+- Rabies Vaccine Certificate (Physical)
+
+### PER Requirements
+- ORIGINAL PHYTOSANITARY (Physical)
+
+### HUM Requirements
+- Death certificate
+- Embalming Certificate (If applicable)
+- Transfer permit from the country of origin
+- PERMITS FROM THE AUTHORITIES OF ORIGIN AND DESTINATION
+- Note: For this case everything must be Physical
+
+### DG Requirements
+- NOTOC (Digital)
+- Original DGD, 2 copies (Digital)
+
+### International Transit/Transshipment
+- RUT/NIT
+- ORIGINAL MAWB #2 (Digital)
+- ORIGINAL HAWB #2 (Digital)
+- CONSOLIDATED MANIFESTO (Digital) including all HAWBS
+
+### International Domestic Transit
+- RUT/NIT
+- BILL
+- ORIGINAL MAWB #2 specifying customs warehouse at national destination
+- ORIGINAL HAWB #2
+- CONSOLIDATED MANIFESTO including all HAWBS
+- Add requirements for intl dom transit of personal effects
+- Note: These documents are received physically

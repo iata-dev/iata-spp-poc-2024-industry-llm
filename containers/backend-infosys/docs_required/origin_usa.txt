@@ -1,0 +1,54 @@
+United States (US)
+•	Documentation Required:
+	o	CUIT, CUIL, DNI or PASSPORT # ORIGINAL MAWB #2 (Digital)
+	o	ORIGINAL HAWB #2 (Digital)
+	o	CONSOLIDATED MANIFESTO (Digital) including all HAWBS
+## US (United States)
+### Origin Requirements
+- TSA LETTER
+- ORIGINAL MAWB #2 (BRA ex GRU, ASU and mandatory AGT)
+- CONSOLIDATED MANIFESTO including all HAWBS
+- BOND DOCUMENT 7512 (Only if it is Bonded cargo)
+- Invoices cargo Brazil in CNX DOM
+
+### AVI Requirements
+- HEALTH CERTIFICATED
+- Rabies Vaccine Certificate and others
+- CITES (If applicable)
+
+### PER Requirements
+- ORIGINAL PHYTOSANITARY (Customer Resp.)
+- Only temperature range is verified
+
+### HUM Requirements
+- Death Certificate
+- Copy of Passport
+- Birth Certificate
+
+### DG Requirements
+- Original DGD, 2 copies
+- State authorization if applicable (according to UN)
+- Original permit according to recipient country (if applicable)
+
+### International Transit/Transshipment
+- TSA LETTER
+- Invoices
+- Release (Bond) US Customs and Border Protection (CBP)
+- ORIGINAL MAWB #2 (BRA ex GRU, ASU and mandatory AGT)
+- ORIGINAL HAWB #2
+- CONSOLIDATED MANIFESTO including all HAWBS
+- Accept Digital Original
+- Fruit: Phytosanitary
+- Transit Permit
+- Ex: SCL-MIA-YYZ
+
+### International Domestic Transit
+- TSA LETTER
+- Invoices
+- Release (Bond) US Customs and Border Protection (CBP)
+- ORIGINAL MAWB #2
+- ORIGINAL HAWB #2
+- CONSOLIDATED MANIFESTO including all HAWBS
+- Accept Digital Original
+- Transit Permit (If Apply)
+- Ex: SCL-MIA-ORD

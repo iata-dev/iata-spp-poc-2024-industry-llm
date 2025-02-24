@@ -1,0 +1,92 @@
+{
+  "perishable_food_categories": {
+    "Fresh Fruits and Vegetables": {
+      "requirements": [
+        "Maintain temperature between 0°C to 15°C depending on the item",
+        "Avoid direct sunlight",
+        "Ensure proper ventilation",
+        "Package with breathable materials",
+        "Inspect for spoilage upon arrival"
+      ],
+      "items": [
+        {"name": "apple", "sub_category": "pome fruits", "ideal_humidity": "85-90%"},
+        {"name": "banana", "sub_category": "tropical fruits", "ideal_humidity": "90-95%"},
+        {"name": "carrot", "sub_category": "root vegetables", "ideal_humidity": "90-95%"},
+        {"name": "spinach", "sub_category": "leafy greens", "ideal_humidity": "95-100%"},
+        {"name": "mango", "sub_category": "tropical fruits", "ideal_humidity": "85-90%"},
+        {"name": "grapes", "sub_category": "berries", "ideal_humidity": "85-90%"},
+        {"name": "rose", "sub_category": "flowers", "ideal_humidity": "90-95%"},
+        {"name": "tulip", "sub_category": "flowers", "ideal_humidity": "85-90%"}
+      ]
+    },
+    "Dairy Products": {
+      "requirements": [
+        "Refrigerate at 2°C to 8°C",
+        "Avoid freezing unless specified",
+        "Transport in insulated containers",
+        "Inspect for leaks or damages",
+        "Maintain consistent refrigeration"
+      ],
+      "items": [
+        {"name": "milk", "sub_category": "liquid dairy", "packaging": "sealed bottles or cartons"},
+        {"name": "cheese", "sub_category": "solid dairy", "packaging": "wax-coated or vacuum-sealed"},
+        {"name": "butter", "sub_category": "spreadable dairy", "packaging": "foil or paper-wrapped"},
+        {"name": "yogurt", "sub_category": "fermented dairy", "packaging": "plastic or glass containers"},
+        {"name": "cream", "sub_category": "liquid dairy", "packaging": "sealed cartons or bottles"}
+      ]
+    },
+    "Meat and Seafood": {
+      "requirements": [
+        "Store at -18°C or below",
+        "Ensure airtight packaging",
+        "Minimize exposure to temperature fluctuations",
+        "Label with production and expiration dates",
+        "Use tamper-evident seals"
+      ],
+      "items": [
+        {"name": "chicken", "sub_category": "poultry", "packaging": "vacuum-sealed or plastic-wrapped"},
+        {"name": "beef", "sub_category": "red meat", "packaging": "vacuum-sealed or butcher paper"},
+        {"name": "salmon", "sub_category": "fish", "packaging": "vacuum-sealed or insulated boxes"},
+        {"name": "shrimp", "sub_category": "shellfish", "packaging": "vacuum-sealed or frozen blocks"},
+        {"name": "pork", "sub_category": "red meat", "packaging": "vacuum-sealed or plastic-wrapped"},
+        {"name": "turkey", "sub_category": "poultry", "packaging": "plastic-wrapped or frozen blocks"},
+        {"name": "lobster", "sub_category": "shellfish", "packaging": "airtight insulated boxes"},
+        {"name": "cod", "sub_category": "fish", "packaging": "vacuum-sealed or frozen bags"}
+      ]
+    },
+    "Bakery and Confectionery": {
+      "requirements": [
+        "Store at room temperature (15°C to 25°C) unless specified",
+        "Protect from humidity",
+        "Avoid stacking to prevent crushing",
+        "Use moisture-resistant packaging",
+        "Inspect for mold or damage"
+      ],
+      "items": [
+        {"name": "bread", "sub_category": "baked goods", "shelf_life": "3-5 days at room temperature"},
+        {"name": "cake", "sub_category": "baked desserts", "shelf_life": "2-3 days at room temperature"},
+        {"name": "chocolate", "sub_category": "confectionery", "shelf_life": "6-12 months"},
+        {"name": "cookies", "sub_category": "baked snacks", "shelf_life": "2-4 weeks"},
+        {"name": "croissant", "sub_category": "baked goods", "shelf_life": "1-2 days"},
+        {"name": "muffin", "sub_category": "baked goods", "shelf_life": "3-5 days"}
+      ]
+    },
+    "Frozen Foods": {
+      "requirements": [
+        "Maintain storage temperature at -18°C or below",
+        "Avoid thawing and refreezing",
+        "Use insulated and temperature-controlled containers",
+        "Label with freezing and expiration dates",
+        "Ensure items are fully frozen before transport"
+      ],
+      "items": [
+        {"name": "ice cream", "sub_category": "desserts", "packaging": "sealed tubs or cartons"},
+        {"name": "frozen pizza", "sub_category": "prepared meals", "packaging": "sealed boxes or vacuum-sealed bags"},
+        {"name": "frozen vegetables", "sub_category": "produce", "packaging": "sealed plastic bags"},
+        {"name": "frozen fruits", "sub_category": "produce", "packaging": "sealed plastic bags"},
+        {"name": "frozen chicken wings", "sub_category": "prepared meals", "packaging": "vacuum-sealed bags"},
+        {"name": "frozen dumplings", "sub_category": "prepared meals", "packaging": "sealed cartons or bags"}
+      ]
+    }
+  }
+}

@@ -1,0 +1,11 @@
+VALUE NAME,QUESTION
+Exporter, Who is the exporter?
+Consignee, Who is the Consignee?
+Place_of_Origin, What is the place of origin?
+Point_of_Entry, What is point of Entry?
+Name_of_Produce, What the name of produce or botanical name of plants?
+Quantity_Declared, What is the quantity declared?
+Packaging, What is the number and description of packages?
+Date, What is the date of document?
+QR_Code, Is there any QR code in the document?
+Stamp, Is there a stamp in the document?

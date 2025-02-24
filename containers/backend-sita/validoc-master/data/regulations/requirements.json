@@ -1,0 +1,80 @@
+{
+    "metadata": {
+        "countries": ["US", "BR", "CA", "CN", "IN", "AU", "GB", "IT", "JP", "DE", "AF", "AL", "DZ", "AD", "AG", "FR", "VN", "MX", "RU", "ZA", "ES", "CL", "KR"]
+    },
+    "requirements": {
+        "US": {
+            "exporting": ["Airway Bill", "Commercial Invoice", "Packing List", "Certificate Of Origin", "Phytosanitary Certificate", "Export Declaration", "Known Shipper Status"],
+            "importing": ["Airway Bill", "Phytosanitary Certificate", "Import Permit", "Food Facility Registration", "Prior Notice Submission", "Temperature Log", "Cargo Screening"]
+        },
+        "BR": {
+            "exporting": ["Airway Bill", "Commercial Invoice", "Packing List", "Certificate Of Origin", "Phytosanitary Certificate", "Export Declaration", "Known Shipper Status"],
+            "importing": ["Airway Bill", "Phytosanitary Certificate", "Import Permit", "Customs Declaration", "Temperature Log"]
+        },
+        "CA": {
+            "exporting": ["Airway Bill", "Commercial Invoice", "Packing List", "Certificate Of Origin", "Phytosanitary Certificate", "Export Declaration", "Known Shipper Status"],
+            "importing": ["Airway Bill", "Phytosanitary Certificate", "Import Permit", "Customs Declaration", "Temperature Log"]
+        },
+        "CN": {
+            "exporting": ["Airway Bill", "Commercial Invoice", "Packing List", "Certificate Of Origin", "Export Declaration", "Phytosanitary Certificate", "Customs Inspection"],
+            "importing": ["Airway Bill", "Commercial Invoice", "Packing List", "Certificate Of Origin", "Import Permit", "Phytosanitary Certificate", "Customs Declaration"]
+        },
+        "IN": {
+            "exporting": ["Airway Bill", "Commercial Invoice", "Packing List", "Certificate Of Origin", "Export Declaration", "Phytosanitary Certificate", "Customs Clearance"],
+            "importing": ["Airway Bill", "Commercial Invoice", "Packing List", "Import License", "Phytosanitary Certificate", "Customs Declaration"]
+        },
+        "AU": {
+            "exporting": ["Airway Bill", "Commercial Invoice", "Packing List", "Certificate Of Origin", "Phytosanitary Certificate", "Export Declaration", "Known Shipper Status"],
+            "importing": ["Airway Bill", "Phytosanitary Certificate", "Import Permit", "Customs Declaration", "Temperature Log"]
+        },
+        "GB": {
+            "exporting": ["Airway Bill", "Commercial Invoice", "Packing List", "Certificate Of Origin", "Export Declaration", "Phytosanitary Certificate", "Customs Clearance"],
+            "importing": ["Airway Bill", "Commercial Invoice", "Packing List", "Import License", "Phytosanitary Certificate", "Customs Declaration"]
+        },
+        "IT": {
+            "exporting": ["Airway Bill", "Commercial Invoice", "Packing List", "Certificate Of Origin", "Export Declaration", "Phytosanitary Certificate", "Customs Clearance"],
+            "importing": ["Airway Bill", "Commercial Invoice", "Packing List", "Phytosanitary Certificate", "Import License", "Customs Declaration"]
+        },
+        "JP": {
+            "exporting": ["Airway Bill", "Commercial Invoice", "Packing List", "Certificate Of Origin", "Phytosanitary Certificate", "Export Declaration", "Known Shipper Status"],
+            "importing": ["Airway Bill", "Phytosanitary Certificate", "Import Permit", "Customs Declaration", "Temperature Log"]
+        },
+        "DE": {
+            "exporting": ["Airway Bill", "Commercial Invoice", "Packing List", "Certificate Of Origin", "Phytosanitary Certificate", "Export Declaration", "Known Shipper Status"],
+            "importing": ["Airway Bill", "Phytosanitary Certificate", "Import Permit", "Customs Declaration", "Temperature Log"]
+        },
+        "FR": {
+            "exporting": ["Airway Bill", "Commercial Invoice", "Packing List", "Certificate Of Origin", "Phytosanitary Certificate", "Export Declaration", "Known Shipper Status"],
+            "importing": ["Airway Bill", "Phytosanitary Certificate", "Import Permit", "Customs Declaration", "Temperature Log"]
+        },
+        "VN": {
+            "exporting": ["Airway Bill", "Commercial Invoice", "Packing List", "Certificate Of Origin", "Phytosanitary Certificate", "Export Declaration", "Known Shipper Status"],
+            "importing": ["Airway Bill", "Phytosanitary Certificate", "Import Permit", "Customs Declaration", "Temperature Log"]
+        },
+        "MX": {
+            "exporting": ["Airway Bill", "Commercial Invoice", "Packing List", "Certificate Of Origin", "Phytosanitary Certificate", "Export Declaration", "Customs Clearance"],
+            "importing": ["Airway Bill", "Commercial Invoice", "Packing List", "Phytosanitary Certificate", "Import Permit", "Customs Declaration"]
+        },
+        "RU": {
+            "exporting": ["Airway Bill", "Commercial Invoice", "Packing List", "Certificate Of Origin", "Phytosanitary Certificate", "Export Declaration", "Known Shipper Status"],
+            "importing": ["Airway Bill", "Phytosanitary Certificate", "Import Permit", "Customs Declaration", "Temperature Log"]
+        },
+        "ZA": {
+            "exporting": ["Airway Bill", "Commercial Invoice", "Packing List", "Certificate Of Origin", "Phytosanitary Certificate", "Export Declaration", "Known Shipper Status"],
+            "importing": ["Airway Bill", "Phytosanitary Certificate", "Import Permit", "Customs Declaration", "Temperature Log"]
+        },
+        "ES": {
+            "exporting": ["Airway Bill", "Phytosanitary Certificate"],
+            "importing": ["Airway Bill", "Phytosanitary Certificate"]
+        },
+        "CL": {
+            "exporting": ["Airway Bill", "Certificate of Origin", "Phytosanitary Certificate"],
+            "importing": ["Airway Bill", "Certificate of Origin", "Phytosanitary Certificate"]
+        },
+        "KR": {
+            "exporting": ["Airway Bill", "Commercial Invoice", "Packing List", "Certificate Of Origin", "Phytosanitary Certificate", "Export Declaration", "Known Shipper Status"],
+            "importing": ["Airway Bill", "Phytosanitary Certificate", "Import Permit", "Customs Declaration", "Temperature Log"]
+        }
+
+    }
+}

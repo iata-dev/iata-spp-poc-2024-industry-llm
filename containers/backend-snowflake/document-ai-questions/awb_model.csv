@@ -1,0 +1,14 @@
+VALUE NAME,QUESTION
+Issued_By,Who issued the air waybill?
+Agent_IATA_Code,What is the Agent IATA Code?
+Account_No,What is the Account Number?
+Departure_Airport_Cd,What is the airport of departure?
+Destination_Airport_Cd,What is the airport of destination?
+Shipper_Name,What is the Shipper's name?
+Shipper_Address,What is the Shipper's address?
+Consignee_Name,What is the Consignee's name?
+Consignee_Address,What is the Consignee's address?
+Consignee_Account_No,What is the Consignee's account number?
+Currency_Cd,What is the currency?
+Chargeable_Weight,What is the chargeable weight?
+Nature_of_Goods,What is the nature of goods?

@@ -1,0 +1,138 @@
+Region: US
+Basic documents:
+* TSA LETTER
+* Invoices
+* Release (Bond) US Customs and Border Protection (CBP)
+* ORIGINAL AWB (2 copies)
+* ORIGINAL HAWB (2 copies)
+* CONSOLIDATED MANIFESTO
+* including all HAWBS
+* Accept Digital Original
+* Special cargo certificate (Phytosanitary for Fruit, HUM certificates details on export, DG and AVI Export requirements apply
+AVI:
+* AWB ORIGINAL (2 copies) or ORIGINAL Digital
+* HEALTH CERTIFICATED - Rabies Vaccine Certificate and others
+* (30 days before entering the United States / minimum 4 months of age)
+* CITES (If applicable)
+PER:
+* ORIGINAL AWB (2 copies) or ORIGINAL Digital
+* FITOSANITARIO ORIGINAL (for the customer not the airline)
+HUM:
+* ORIGINAL AWB (2 copies) and COPY OF DEATH CERTIFICATE
+* PASSPORT OF THE HUM or Person accompanying/dispatching
+* Embalming Certificate (If applicable)
+DG:
+* ORIGINAL AWB (2 copies) or ORIGINAL Digital
+* Original DGD, 2 copies
+
+
+#################################################################################
+
+
+Region: EU
+Basic documents:
+* Accept digital copy if originals are lost
+AVI:
+* REIGA (UK) # in AWB
+* Rabies Vaccine Certificate
+* CITES
+PER:
+* ORIGINAL PHYTOSANITARY
+* ORIGINAL AWB
+* Original phytosanitary product for fruit is required when it transits intra-Europe.
+* At the first airport that arrives, the authority issues a Sanitary Certificate with which the fruit continues to its final destination, leaving the original phytosanitary at that first airport of entry.
+
+#################################################################################
+
+
+Region: Japan
+Basic documents:
+* Commercial Invoice
+* Air Waybill (AWB)
+AVI:
+* Certificate issued by the government agency of the exporting country
+* Copy of the Air Waybill (AWB)
+* Dogs and cats: Documents related to rabies vaccination and rabies antibody testing.
+* Birds:Avian influenza test certificate, etc.
+PER:
+* Air Waybill (AWB)
+* Commercial Invoice
+* Phytosanitary Certificate (for plants)
+
+
+#################################################################################
+
+
+Region: India
+Basic documents:
+AVI:
+PER:
+* Commercial Invoice
+* Packing List
+* Import License
+* Pythosanitary Certificate (for plant-based products)
+* Certificate of Analysis (for food products)
+* Quarantine Certificate
+* Plant Quarantine Order (PQ Order) for plant-based products
+* Fumigation Certificate (for cargo requiring fumigation)
+* Health Certificate (for animal-based products)
+HUM:
+DG:
+
+
+#################################################################################
+
+
+Region: Saudi Arabia
+Basic documents:
+AVI:
+PER:
+* Commercial Invoice
+* Packing List
+* Import License from Ministry of Commerce and Industry
+* Pythosanitary Certificate (for plant-based products)
+* Perishable Cargo Approval from SAA or airport authority
+* Halal Certificate (for food products)
+* Fumigation Certificate (for cargo requiring fumigation)
+* Health Certificate (for animal-based products)
+HUM:
+DG:
+
+
+#################################################################################
+
+
+Region: Qatar
+Basic documents:
+AVI:
+PER:
+* Commercial Invoice
+* Packing List
+* Import License from Ministry of Commerce and Industry
+* Pythosanitary Certificate (for plant-based products)
+* Perishable Cargo Approval from SAA or airport authority
+* Halal Certificate (for food products)
+* Fumigation Certificate (for cargo requiring fumigation)
+* Health Certificate (for animal-based products)
+* Veterinary Certificate (for animal-derived products)
+HUM:
+DG:
+
+
+#################################################################################
+
+
+Region: UAE
+Basic documents:
+AVI:
+PER:
+* Commercial Invoice
+* Packing List
+* Import License from Ministry of Commerce and Industry
+* Pythosanitary Certificate (for plant-based products)
+* Perishable Cargo Approval from SAA or airport authority
+* Halal Certificate (for food products)
+* Fumigation Certificate (for cargo requiring fumigation)
+* Health Certificate (for animal-based products)
+HUM:
+DG:

@@ -1,0 +1,44 @@
+Argentina (AR)
+•	Documentation Required:
+	o	RUC # Mandatory in cnne box
+	o	ORIGINAL MAWB #2 (Digital)
+	o	ORIGINAL HAWB #2 (Digital)
+	o	CONSOLIDATED MANIFESTO (Digital) including all HAWBS
+
+## AR (Argentina)
+### Origin Requirements
+- CUIT, CUIL, DNI or PASSPORT #
+- ORIGINAL MAWB #2 (Digital)
+- ORIGINAL HAWB #2 (Digital)
+- CONSOLIDATED MANIFESTO (Digital) including all HAWBS
+
+### AVI Requirements
+- ALERT + 24 HOURS BEFORE ETA
+- HEALTH DOCUMENTS
+- CITES
+- Rabies Vaccine Certificate
+
+### PER Requirements
+- ORIGINAL PHYTOSANITARY (Customer Responsibility)
+
+### HUM Requirements
+- Death certificate
+- Embalming Certificate (If applicable)
+- Transfer permit from the country of origin
+
+### DG Requirements
+- Original DGD, 2 copies
+
+### International Transit/Transshipment
+- HCC o AFIP #
+- ORIGINAL MAWB #2 (Digital)
+- ORIGINAL HAWB #2 (Digital)
+- CONSOLIDATED MANIFESTO (Digital) including all HAWBS
+
+### International Domestic Transit
+- CUIT #
+- INVOICE
+- ORIGINAL MAWB #2 (Digital)
+- ORIGINAL HAWB #2 (Digital)
+- CONSOLIDATED MANIFESTO (Digital)
+- Accept digital Original copy

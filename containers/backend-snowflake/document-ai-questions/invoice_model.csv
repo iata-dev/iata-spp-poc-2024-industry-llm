@@ -1,0 +1,13 @@
+VALUE NAME,QUESTION
+Shipper_name,What is the shipper name?
+Shipper_address,What is the shipper address
+Consignee_Name,What is the Consignee Name?
+Consignee_Address,What is the Consignee Address?
+AWB_No,What is the AWB no?
+PKGS,What are the PKGS Nos?
+PKGS_Desc,What are the pkgs descriptions?
+Quantity,What is the quantity of items?
+Country_of_Origin,What is the Country of Origin?
+Country_of_Destination,Where is the Country of Destination
+Invoice_No,What is the invoice no?
+Invoice_Date,When is the invoice date?

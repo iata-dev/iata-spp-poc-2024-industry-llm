@@ -1,0 +1,40 @@
+## BO (Bolivia)
+### Origin Requirements
+- Original MAWB
+- Single Export Declaration DEX (Customs)
+- HAWB issued by consolidating agent
+- Consolidated cargo manifest issued by consolidator agent
+- Consolidated cargo manifest issued by customs system
+- DEX of each HAWB
+- Export bill
+- Packing list
+- Letters of security and acceptance issued by the shipping agent
+- Declaration of security of the shipment issued by Latam
+
+### AVI Requirements
+- Rabies Vaccine Certificate
+- Veterinary Certificate
+- Zoo health certificate
+- Customs export document of origin
+- Photocopy of identity document of the exporter
+- CITES
+
+### PER Requirements
+- ORIGINAL PHYTOSANITARY (Customer Responsibility)
+
+### HUM Requirements
+- Death certificate
+- Forensic Medical Certificate
+- Embalming Certificate (If applicable)
+- Transfer permit from the country of origin
+
+### DG Requirements
+- Shipper declaration 2 copies
+- Check list for dangerous goods
+- Customs export document of origin
+
+### International Transit/Transshipment
+- N/A
+
+### International Domestic Transit
+- N/A

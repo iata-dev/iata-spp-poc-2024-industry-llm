@@ -1,0 +1,152 @@
+{
+  "embargoed_countries": [
+    {
+      "country": "KP",
+      "restrictions": {
+        "items": [
+          "Weapons and military equipment",
+          "Dual-use goods",
+          "Luxury goods",
+          "Coal, iron, and seafood",
+          "Oil and petroleum products",
+          "Electronics and software with encryption"
+        ],
+        "entities": [
+          "Korea Mining Development Trading Corporation (KOMID)",
+          "Munitions Industry Department (MID)",
+          "Individuals associated with the nuclear program"
+        ]
+      }
+    },
+{
+  "country": "IR",
+  "restrictions": {
+    "items": [
+      "Nuclear reactors and components",
+      "Uranium and uranium enrichment technology",
+      "Heavy water production equipment",
+      "Ballistic missile components",
+      "Military-grade arms and ammunition",
+      "Explosives and related materials",
+      "Advanced encryption software",
+      "Petrochemical catalysts",
+      "Industrial equipment for gas and oil production",
+      "Centrifuges and related equipment",
+      "Dual-use items listed in Annex I of Council Regulation 428/2009",
+      "Aircraft and parts listed in Annex II of Council Regulation 267/2012",
+      "Items listed in the EU Common Military List",
+      "Graphite and raw materials used in nuclear and missile industries",
+      "High-performance computing systems",
+      "Satellite and telecommunications equipment",
+      "Sensitive electronic components",
+      "Marine engines and components",
+      "Unmanned aerial vehicle (UAV) technologies",
+      "Cryogenic tanks and cooling systems",
+      "Luxury goods including precious metals and jewelry",
+      "Certain perishable food items under strict origin compliance",
+      "Medical devices with advanced imaging or nuclear capabilities",
+      "Pharmaceuticals with dual-use potential",
+      "Chemical precursors listed under the Chemical Weapons Convention"
+    ],
+    "entities": [
+      "Islamic Revolutionary Guard Corps (IRGC)",
+      "Atomic Energy Organization of Iran (AEOI)",
+      "Iranian Ministry of Defense and Armed Forces Logistics (MODAFL)",
+      "Bank Melli",
+      "Bank Saderat",
+      "Bank Sepah",
+      "Islamic Republic of Iran Shipping Lines (IRISL)",
+      "National Iranian Oil Company (NIOC)",
+      "National Iranian Tanker Company (NITC)",
+      "Individuals and entities involved in human rights violations",
+      "Entities supporting Iran's nuclear and missile programs",
+      "Mahan Air",
+      "Qeshm Fars Air",
+      "Companies operating under the EIKO umbrella",
+      "Defense Industries Organization (DIO)",
+      "Entities facilitating the transfer of drones and missiles to sanctioned regions",
+      "Firms linked to Iran's cyber-espionage operations",
+      "Iranian Revolutionary Guard Corps Aerospace Force",
+      "Designated universities and research institutions supporting prohibited programs"
+    ]
+  }
+},
+    {
+      "country": "SY",
+      "restrictions": {
+        "items": [
+          "Weapons and military equipment",
+          "Technology for surveillance and repression",
+          "Dual-use goods",
+          "Crude oil and petroleum products"
+        ],
+        "entities": [
+          "Syrian Arab Army",
+          "Certain government officials",
+          "State-run oil and gas companies"
+        ]
+      }
+    },
+    {
+      "country": "RU",
+      "restrictions": {
+        "items": [
+          "Military and dual-use technology",
+          "Certain industrial machinery",
+          "High-tech goods",
+          "Oil refining technology",
+          "Luxury goods"
+        ],
+        "entities": [
+          "Defense-related organizations",
+          "Individuals under Magnitsky Act sanctions",
+          "Banks and financial institutions associated with aggression against Ukraine"
+        ]
+      }
+    },
+    {
+      "country": "CU",
+      "restrictions": {
+        "items": [
+          "Military-grade equipment",
+          "Certain dual-use goods",
+          "Products with over 10% U.S. content"
+        ],
+        "entities": [
+          "Certain government officials",
+          "State-run corporations involved in human rights abuses"
+        ]
+      }
+    },
+    {
+      "country": "BY",
+      "restrictions": {
+        "items": [
+          "Military and surveillance equipment",
+          "Dual-use goods",
+          "Certain luxury goods",
+          "Machinery for industrial uses"
+        ],
+        "entities": [
+          "Government officials linked to repression",
+          "State-owned enterprises"
+        ]
+      }
+    },
+    {
+      "country": "VE",
+      "restrictions": {
+        "items": [
+          "Military equipment",
+          "Technology for monitoring and repression",
+          "Dual-use goods"
+        ],
+        "entities": [
+          "Government officials",
+          "Certain state-owned enterprises"
+        ]
+      }
+    }
+  ],
+  "notes": "This JSON reflects common embargo restrictions based on global sanctions. Verify with official sources like BIS, EU, or UN for updated and complete restrictions."
+}

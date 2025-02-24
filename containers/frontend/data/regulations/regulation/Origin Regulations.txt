@@ -1,0 +1,155 @@
+Region: Chile
+Basic documents:
+* Original AWB
+Licenses:
+AVI:
+* SAG Certificate for AVIs
+* CITES (if apply)
+* Rabies vaccination certificate
+* OK to forward for AKL / SYD / MEL
+PER:
+* PES: Original Phytosanitary Certificate
+* Salmon: Neppex
+International Transit (Transshipment):
+* Annex H
+* Original AWB (2 copies)
+* Original HAWB (2 copies)
+* Consolidated Manifesto including All HAWB
+* Accept digital copy if Originals are lost
+* Commercial Invoice (Transshipment) Ex: MAD-GRU-SCL
+International Domestic Transit:
+* Annex H
+
+
+#################################################################################
+
+
+Region: Ecuador
+Basic documents:
+* Original AWB 
+Licenses:
+AVI:
+* SHIPPER LIVE ANIMALS
+* VETERINARY CERTIFICATE
+* PERMITS FROM THE AUTHORITIES OF ORIGIN AND DESTINATION
+* CITES WHEN IT APPLIES
+* VACCINE ADMINISTRATION CARD ACCORDING TO THE SPECIES
+* ZOOSANITARY CERTIFICATE
+PER:
+* Phytosanitary Certificate (COPY OF THE VARIETIES THAT APPLY)
+International Transit (Transshipment):
+* Original AWB (2 copies) (Digital)
+* Original HAWB (2 copies) (Digital)
+* Consolidated Manifesto (Digital)
+* Accept digital Original copy
+International Domestic Transit:
+
+
+#################################################################################
+
+
+Region: Colombia
+Basic documents:
+* Original AWB 
+Licenses:
+AVI:
+* SHIPPER (Physical)
+* HEALTH DOCUMENTS (Physical)
+* PERMITS FROM THE AUTHORITIES OF ORIGIN AND DESTINATION
+* CITES(Digital)
+* Rabies Vaccine Certificate (Physical)
+PER:
+* Original Phytosanitary Certificate (Physical)
+International Transit (Transshipment):
+* RUT/NIT
+* Original AWB (2 copies) (Digital)
+* Original HAWB (2 copies) (Digital)
+* Consolidated Manifesto (Digital)
+* including all HAWB
+International Domestic Transit:
+* RUT/NIT
+* BILL
+* Original AWB (2 copies) specifying customs warehouse at national destination
+* Original HAWB (2 copies)
+* Consolidated Manifesto
+* including all HAWB
+* Add requirements for intl dom transit of personal effects
+* ** These documents are received physically in their airport
+
+
+#################################################################################
+
+
+Region: Thailand
+Basic documents:
+* Commercial Invoice
+* Packing List
+* Air Waybill (AWB)
+Licenses:
+* This is required when exporting restricted items such as weapons, narcotics, and cultural heritage.
+AVI:
+* Animal Health Certificate
+* Export Permit
+* CITES (if apply)
+PER:
+* Phytosanitary Certificate: Required for perishable plant products (e.g., fruits, vegetables)
+International Transit (Transshipment):
+* Transshipment Declaration (Customs Form No. 102)
+* Transit/Transshipment Permit: May be required for certain goods or if the goods are subject to specific controls (e.g., CITES permit for endangered species).  
+* Security Declaration: May be required to comply with security regulations.
+* Air Waybill (AWB)
+International Domestic Transit:
+* Domestic Air Waybill (DAWB)
+* Transfer Manifest or Delivery Order
+
+
+#################################################################################
+
+
+Region: India
+Basic documents:
+AVI:
+PER:
+* Commercial Invoice
+* Packing List
+HUM:
+DG:
+
+
+#################################################################################
+
+
+Region: Saudi Arabia
+Basic documents:
+AVI:
+PER:
+* Commercial Invoice
+* Packing List
+HUM:
+DG:
+
+
+#################################################################################
+
+
+Region: Qatar
+Basic documents:
+AVI:
+PER:
+* Commercial Invoice
+* Packing List
+HUM:
+DG:
+
+
+#################################################################################
+
+
+Region: UAE
+Basic documents:
+AVI:
+PER:
+* Commercial Invoice
+* Packing List
+HUM:
+DG:

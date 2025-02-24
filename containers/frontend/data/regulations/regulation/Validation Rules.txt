@@ -1,0 +1,10 @@
+﻿* Origin country
+* Destination country
+* Shipper name and country
+* Consignee name and country
+* Declared means of envoyance should be by air
+* AWB pieces and Phytosanitary Certificate pieces should match
+* If weight is specified in Phytosanitary Certificate it should match with AWB weight
+* If the Phytosanitary Certificate is digitally signed, it should be marked as digitally signed
+* Nature of goods should be in line with the name of the product mentioned in the Phytosanitary Certificate. It may not match exactly
+* Date of issue in the Phytosanitary Certificate should be earlier than the execution date in the AWB

@@ -1,0 +1,44 @@
+Brazil (BR)
+•	Documentation Required:
+	o	ORIGINAL MAWB SET 1-2-4
+	o	ORIGINAL HAWB WHEN APPLIED (LOAD DEST COL AND CNX FROM MIA DEPENDING ON INTERLINE)
+	o	CONSOLIDATED MANIFESTO BILLS
+	o	ENDORSEMENTS OR SECURITY DOCUMENTS
+## BR (Brazil)
+### Origin Requirements
+- ORIGINAL MAWB #2 (Digital)
+- ORIGINAL HAWB #2 (Digital)
+- CONSOLIDATED MANIFESTO 2 (Digital) including all HAWBS
+
+### AVI Requirements
+- CZI - CITES (if apply)
+- Rabies Vaccine Certificate
+- Proof of vaccinations (pets)
+
+### PER Requirements
+- ORIGINAL PHYTOSANITARY (Customer Responsibility)
+
+### HUM Requirements
+- Death certificate
+- Embalming Certificate (If applicable)
+- Transfer permit from the country of origin
+
+### DG Requirements
+- Original DGD, 2 copies
+- Check List
+
+### International Transit/Transshipment
+- DTI - Internal Transit Declaration
+- ORIGINAL MAWB #2
+- ORIGINAL HAWB #2
+- Can be a copy in the system or a digital copy
+
+### International Domestic Transit
+- DTA BILL
+- MAWB Original 2
+- HAWB Original 2
+- MAD-GRU-POA
+- Can be copies in system or digital copy
+- If DG via Truck, consider Emergency Sheet
+- If weapons: Guide GT - issued by the Cnee in the Brazilian army
+- Add for personal effects, copy of pass and air ticket
